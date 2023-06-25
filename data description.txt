@@ -1,0 +1,10 @@
+name - Restaurant name
+year - Awarded year
+latitude - Latitude of restaurant
+longitude - Longitude of restaurant
+city - Restaurant city name
+region - Michelin Guide's region
+zipCode - Zip code / postal code of restaurant (or N/A)
+cuisine - Style of cuisine
+price - Price range (from $ to $$$$$) (or N/A)
+url - Url to the restaurant
